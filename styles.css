@@ -53,6 +53,16 @@
     margin-bottom: 20px;
 }
 
+.mini-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
 .button-container {
     display: flex;
     justify-content: center;
